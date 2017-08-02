@@ -1,7 +1,6 @@
 {
     "spec_dir": "unit",
     "spec_files": [
-        "master/**/*[sS]pec.js",
-        "worker/**/*[sS]pec.js"
+        "master/**/*[sS]pec.js"
     ]
 }
