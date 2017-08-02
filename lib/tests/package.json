@@ -1,0 +1,13 @@
+{
+    "name": "ewd-qoper8-tests",
+    "version": "3.13.0",
+    "description": "Tests for high-performance Message Queue for Node.js",
+    "scripts": {
+        "test": "jasmine JASMINE_CONFIG_PATH=unit/config/jasmine.json"
+    },
+    "private": true,
+    "dependencies": {
+        "jasmine": "^2.6.0",
+        "sinon": "^2.4.1"
+    }
+}
