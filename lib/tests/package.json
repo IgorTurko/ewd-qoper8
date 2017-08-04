@@ -3,7 +3,7 @@
     "version": "3.13.0",
     "description": "Tests for high-performance Message Queue for Node.js",
     "scripts": {
-        "test": "istanbul cover node_modules\\jasmine\\bin\\jasmine.js JASMINE_CONFIG_PATH=unit/config/jasmine.json"
+        "test": "istanbul cover node_modules//jasmine//bin//jasmine.js JASMINE_CONFIG_PATH=unit/config/jasmine.json"
     },
     "private": true,
     "dependencies": {
